@@ -1,0 +1,31 @@
+prompt,completion
+Typhoid fever unspecified,A01.00
+Typhoid meningitis,A01.01
+Typhoid fever with heart involvement,A01.02
+Typhoid pneumonia,A01.03
+Typhoid arthritis,A01.04
+Typhoid osteomyelitis,A01.05
+Typhoid fever with other complications,A01.09
+Paratyphoid fever A,A01.1
+Paratyphoid fever B,A01.2
+Paratyphoid fever C,A01.3
+"Paratyphoid fever, unspecified",A01.4
+Spirillosis,A25.0
+Streptobacillosis,A25.1
+"Rat-bite fever, unspecified",A25.9
+Scarlet fever with otitis media,A38.0
+Scarlet fever with myocarditis,A38.1
+Scarlet fever with other complications,A38.8
+"Scarlet fever, uncomplicated",A38.9
+Louse-borne relapsing fever,A68.0
+Tick-borne relapsing fever,A68.1
+"Relapsing fever, unspecified",A68.9
+Epidemic louse-borne typhus fever due to Rickettsia prowazekii,A75.00
+Recrudescent typhus [Brills disease],A75.01
+Typhus fever due to Rickettsia typhi,A75.02
+Typhus fever due to Rickettsia tsutsugamushi,A75.03
+"Typhus fever, unspecified",A75.09
+Spotted fever due to Rickettsia rickettsii,A77.0
+Spotted fever due to Rickettsia conorii,A77.1
+Spotted fever due to Rickettsia siberica,A77.2
+Spotted fever due to Rickettsia australis,A77.3
