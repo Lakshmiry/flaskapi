@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/b69db90b-8ba4-4e11-bf6c-664b3e8f2fbb/resourceGroups/react_medical_app/providers/Microsoft.Web/sites/flaskapiapp",
+    "appService.deploySubpath": "."
+}
